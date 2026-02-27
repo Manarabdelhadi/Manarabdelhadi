@@ -12,7 +12,7 @@ I am a **Front-End Developer** 🌐 and currently learning **Problem Solving** �
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **personal front-end projects**  
-- 🌱 &nbsp; I’m currently learning **Problem Solving and advanced JavaScript**  
+- 🌱 &nbsp; I’m currently learning **Problem Solving**  
 - 👩‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/manarabdelhadi?tab=repositories)  
 - 🎨 &nbsp; I use Figma to design my web interfaces  
 - 💬 &nbsp; Ask me about **Front-End Development, JavaScript, React, and Problem Solving**  
