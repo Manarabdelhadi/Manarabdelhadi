@@ -14,14 +14,13 @@ I am a **Front-End Developer** 🌐 and currently learning **Problem Solving** �
 - 🌱 &nbsp; I’m currently learning **Problem Solving**  
 - 👩‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/manarabdelhadi?tab=repositories)  
 - 🎨 &nbsp; I use Figma to design my web interfaces  
-- 💬 &nbsp; Ask me about **Front-End Development, JavaScript, React, and Problem Solving**  
+- 💬 &nbsp; Ask me about **Front-End Development, JavaScript, HTML, CSS, and Problem Solving**  
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manar-abdelhadi/)  
 - 📝 &nbsp; Checkout my [resume](#) (add your resume link here)  
 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -40,6 +39,12 @@ I am a **Front-End Developer** 🌐 and currently learning **Problem Solving** �
 <br>
 
 ### 🛠️ My Projects
-<a href="https://manarabdelhadi.github.io/project1/" target="_blank"> <img alt="project1" src="./projects/project1.svg" height="68" align="left"> </a>
-<a href="https://manarabdelhadi.github.io/project2/" target="_blank"> <img alt="project2" src="./projects/project2.svg"  height="68" align="left"> </a>
-<a href="https://github.com/manarabdelhadi/other-projects" target="_blank"> <img alt="otherprojects" src="./projects/otherprojects.svg" height="68" align="left"> </a>
+<a href="https://manarabdelhadi.github.io/project1/" target="_blank"> 
+  <img alt="project1" src="https://img.shields.io/badge/Project1-Folder-gray?style=flat&logo=appveyor&logoColor=white" height="68" align="left"> 
+</a>
+<a href="https://manarabdelhadi.github.io/project2/" target="_blank"> 
+  <img alt="project2" src="https://img.shields.io/badge/Project2-Folder-gray?style=flat&logo=appveyor&logoColor=white" height="68" align="left"> 
+</a>
+<a href="https://github.com/manarabdelhadi/other-projects" target="_blank"> 
+  <img alt="otherprojects" src="https://img.shields.io/badge/OtherProjects-Folder-gray?style=flat&logo=appveyor&logoColor=white" height="68" align="left"> 
+</a>
